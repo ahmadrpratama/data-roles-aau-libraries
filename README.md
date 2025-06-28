@@ -9,7 +9,7 @@ This project examines how libraries at leading members of the Association of Ame
   - `recap.csv`: Recap dataset per university library
   - `roles`: Main dataset listing data-related roles in AAU libraries
 
-- **notebooks/**: Python analysis notebook (Google Colab), including data import from Google Sheets, text and statistical analysis, as well as figure generation.
+- **notebook/**: Python analysis notebook (Google Colab), including data import from Google Sheets, text and statistical analysis, as well as figure generation.
 
 - **figures/**: Visualizations generated from the analysis.
 
