@@ -16,18 +16,18 @@ This project examines how libraries at leading members of the Association of Ame
 - **manuscript/**: Pre-print manuscript (PDF).
 
 ## 📁 Data Overview:
-Main Dataset (AAU_Library_Data_Roles.csv)
-University: Institution names
-Role: Type of role (Librarian, Staff, Other)
-Title: Specific job titles (e.g., "Data Analyst Specialist", "GIS Librarian")
+ Main Dataset (AAU_Library_Data_Roles.csv)
+- University: Institution names
+- Role: Type of role (Librarian, Staff, Other)
+- Title: Specific job titles (e.g., "Data Analyst Specialist", "GIS Librarian")
 
 Recap Dataset (AAU_Library_Recap.csv)
-University: Institution names
-Status: Public or Private
-Total: Total number of library staff
-Data Roles: Count of data-focused roles
-Categories: Number of roles categorized as Librarian, Staff, Other, and roles associated with specific keywords (data, digital, GIS, research)
-Web: Link to the library’s dedicated data services webpage (if available)
+- University: Institution names
+- Status: Public or Private
+- Total: Total number of library staff
+- Data Roles: Count of data-focused roles
+- Categories: Number of roles categorized as Librarian, Staff, Other, and roles associated with specific keywords (data, digital, GIS, research)
+- Web: Link to the library’s dedicated data services webpage (if available)
 
 ## 📊 Original Interactive Dataset
 For the complete interactive dataset with embedded hyperlinks, please visit:
