@@ -1,0 +1,72 @@
+university,status,total,dataroles,librarian,staff,other,data,digital,gis,research,web
+Arizona State University,Public,183,6,3,3,0,5,1,0,0,-
+Boston University,Private,91,0,0,0,0,0,0,0,0,-
+Brandeis University,Private,56,2,2,0,0,2,0,0,0,Data Services
+Brown University,Private,133,2,2,0,0,2,0,1,0,Data & Statistics Research Guides
+California Institute of Technology,Private,42,1,0,1,0,1,0,0,1,Software & Data Workshops
+Carnegie Mellon University,Private,90,6,3,2,1,6,0,1,1,Data Services
+Case Western Reserve University,Private,117,1,0,1,0,1,0,1,1,-
+Columbia University,Private,284,4,3,1,0,4,0,0,3,Research Data Services
+Cornell University,Private,300,7,7,0,0,5,1,0,3,Digital Scholarship Services
+Dartmouth College,Private,138,4,3,1,0,4,0,0,3,Data Science
+Duke University,Private,224,9,2,7,0,9,0,1,3,Center for Data and Visualization Sciences
+Emory University,Private,220,3,3,0,0,3,1,0,1,Data Services
+George Washington University,Private,107,4,2,2,0,2,0,0,0,Data Services
+Georgia Tech,Public,89,1,0,1,0,1,0,0,1,Data Visualization Lab
+Harvard University,Private,346,18,10,8,0,16,0,2,9,Visualization Support
+Indiana University,Public,113,2,2,0,0,2,0,0,0,-
+John Hopkins University,Private,149,7,2,5,0,5,0,2,0,Data Services
+Massachusetts Institute of Technology,Private,155,3,3,0,0,2,0,1,0,Data Services
+McGill University,Public,98,2,1,1,0,2,0,0,1,Data & Maps at McGill
+Michigan State University,Public,202,3,3,0,0,1,2,0,0,Data Services
+New York University,Private,386,14,8,5,1,6,2,0,6,Data Services
+Northwestern University,Private,175,4,3,1,0,2,1,1,0,Geospatial and Data Services
+Ohio State University,Public,211,2,2,0,0,2,0,0,1,-
+Penn State University,Public,564,4,2,2,0,1,0,1,2,Data Learning Center
+Princeton University,Private,370,11,4,7,0,10,0,0,5,Data and Statistical Services
+Purdue University,Public,138,6,3,3,0,4,0,2,3,-
+Rice University,Private,100,2,2,0,0,2,0,1,0,Research Data Services
+Rutgers University,Public,177,4,4,0,0,3,1,0,0,-
+Stanford University,Private,371,9,4,5,0,7,1,0,1,Data support and services
+Stony Brook University,Public,53,1,1,0,0,1,0,0,0,Data Services
+Texas A&M University,Public,227,7,3,4,0,6,1,0,1,-
+Tufts University,Private,58,3,3,0,0,2,1,0,2,Data Lab (13 staff are not included here)
+Tulane University,Private,94,0,0,0,0,0,0,0,0,-
+UC Berkeley,Public,120,2,2,0,0,1,1,0,0,Data + Digital Scholarship Services
+UC Davis,Public,156,9,2,4,3,8,0,0,2,DataLab: Data Science and Informatics
+UC Irvine,Public,137,3,3,0,0,1,1,1,1,-
+UC Riverside,Public,79,3,2,1,0,1,1,0,0,Data Services
+UC San Diego,Public,231,5,4,1,0,4,0,2,1,Finding Data & Statistics: Home
+UC Santa Barbara,Public,122,1,1,0,0,0,0,0,0,-
+UC Santa Cruz,Public,107,5,2,3,0,0,5,1,0,-
+UCLA,Public,310,6,3,3,0,5,0,0,1,Data Science Center
+University at Buffalo,Public,132,3,3,0,0,1,2,0,0,-
+University of Arizona,Public,185,4,4,0,0,3,1,0,1,Data Cooperative
+University of Chicago,Private,204,4,3,1,0,4,0,0,1,Data Support Services
+University of Colorado Boulder,Public,288,6,6,0,0,3,2,0,1,Data Services
+University of Florida,Public,248,2,2,0,0,1,0,0,0,Data Science Services
+University of Illinois Urbana-Champaign,Public,379,5,5,0,0,5,0,0,5,Data Services
+University of Iowa,Public,187,2,2,0,0,1,1,0,1,-
+University of Kansas,Public,135,2,1,1,0,2,1,0,1,-
+University of Maryland,Public,206,1,1,0,0,1,0,1,0,GIS and Data Services
+University of Miami,Private,145,4,4,0,0,3,0,1,1,Data & Visualization Services
+University of Michigan,Public,423,6,5,1,0,6,0,0,0,Data Services
+University of Minnesota,Public,317,7,4,3,0,7,0,0,1,-
+University of Missouri,Public,175,1,1,0,0,1,0,0,0,-
+University of North Carolina at Chapel Hill,Public,226,7,7,0,0,4,2,1,2,Library Data Services
+University of Notre Dame,Private,132,0,0,0,0,0,0,0,0,-
+University of Oregon,Public,134,5,3,2,0,4,0,0,3,Data Services
+University of Pennsylvania,Private,355,10,4,4,2,3,6,0,3,Data Visualization and Analysis Support
+University of Pittsburgh,Public,149,6,4,2,0,1,3,1,0,Digital Scholarship Services
+University of Rochester,Private,102,2,2,0,0,2,0,0,0,Data & Primary Sources
+University of South Florida,Public,117,1,0,1,0,1,0,0,0,-
+University of Southern California,Private,202,3,3,0,0,2,0,0,1,-
+University of Texas at Austin,Public,207,2,0,2,0,2,0,1,1,GIS & Geospatial Data Services
+University of Toronto,Public,516,16,10,6,0,13,3,3,1,Map and Data Library
+University of Utah,Public,270,3,2,1,0,2,0,1,2,-
+University of Virginia,Public,220,5,2,3,0,5,0,0,5,Research Data Services
+University of Washington,Public,305,9,9,0,0,8,1,0,3,Research Data Services
+University of Wisconsin-Madison,Public,283,3,3,0,0,2,1,0,1,Data Science Hub
+Vanderbilt University,Private,152,3,3,0,0,3,0,0,0,-
+Washington University in St. Louis,Private,158,6,2,4,0,5,0,3,0,Data Services
+Yale University,Private,595,7,5,2,0,4,2,1,1,"Data, GIS, and StatLab Services"
